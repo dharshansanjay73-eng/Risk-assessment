@@ -15,18 +15,31 @@ AWS	Amazon S3
 Microsoft Azure	Azure Blob Storage
 # PART A — AWS S3 STORAGE ASSESSMENT
 Step 1: Login to AWS
-1.Open the AWS Management Console. 
+
+1.Open the AWS Management Console.
+
 2.Sign in using your AWS account. 
+
 3.Search for S3. 
+
+
 4.Select Amazon S3. 
+
+
 
 Step 2: Select the S3 Bucket
 1.Click Buckets. 
-2.Select the S3 bucket created in the previous experiment. 
+
+2.Select the S3 bucket created in the previous experiment
+. 
 3.Record: 
+
 oBucket name 
+
 oAWS Region 
+
 oNumber/type of objects 
+
 
 <img width="1917" height="917" alt="Screenshot 2026-08-25 134952" src="https://github.com/user-attachments/assets/f6d022f0-ca5a-42cf-a585-68f2d7e3dac6" />
 
